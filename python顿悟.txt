@@ -1,0 +1,25 @@
+[split]
+s = 'love/python'
+print(s.split('ve'))
+默认的分隔符除了空格，还有 '\n\t\r'，分隔后，空串会自动忽略，如下：
+s = 'love\n \t python'
+print(s.split())
+['love', 'python']
+ s='www.pku.edu.cn'
+s.split('.',2)#分隔2次
+['www', 'pku', 'edu.cn']
+ s.split('.',2)[1]#分隔2次，取索引为1的项
+'pku'
+[join]
+l=str(input())
+s='/'.join(l)
+print(s)
+234
+2/3/4
+seq1 = ['hello','good','boy','doiido']
+print(''.join(seq1))
+ a=input()
+ b=a.split('/')[将字符串转化成列表并分隔，但是列表中元素仍是字符串]
+ c=int(b.pop(0))
+ print(b).....['x']
+ print(c).....x
