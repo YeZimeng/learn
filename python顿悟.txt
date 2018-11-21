@@ -23,4 +23,4 @@ print(''.join(seq1))
  c=int(b.pop(0))
  print(b).....['x']
  print(c).....x
-我认为你应该经常复习，坚持学习python 
+我认为应该经常复习，坚持学习python 
